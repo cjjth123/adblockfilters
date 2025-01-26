@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250126160923
-! Last modified: 2025/01/26 16:09:23
-! Blocked domains: 207927
+! Version: 20250127000816
+! Last modified: 2025/01/27 00:08:16
+! Blocked domains: 207947
 !
 0-0.fr
 0-02.net
@@ -3669,6 +3669,7 @@ fca88bf71e.632c96af3c.com
 633c66f0dc.com
 634189.com
 booking.63785-confirm.com
+63801782.xyz
 6390becedf.com
 63912b9175.com
 6399tp.com
@@ -4521,6 +4522,7 @@ water-bed.8p.org.uk
 8rf.com
 8s32e590un.com
 8senjya.jp
+8sh.fun
 8shop.me
 8si.ru
 8stream-ai.com
@@ -14450,6 +14452,7 @@ s.amisol.se
 smetrics.amitiza.com
 log.amitshah.net
 get.amity.io
+amjllwblmlbyr.top
 amjllwbovlvbb.top
 amjllwbovlyba.top
 amjoltiktor.com
@@ -50393,6 +50396,7 @@ cudesnictoo.info
 cudgeletc.com
 cudgelsupportiveobstacle.com
 cudjgcnwoo-s.icu
+download.cudo.org
 cudysoo.com
 cue-find.com
 cue-oxvpqbt.space
@@ -87446,6 +87450,7 @@ resu8.hjfile.cn
 hjgen.cn
 lhevhb.hjgreek.com
 info.hjinvest.com
+hjj.pw
 hjjshv.xyz
 hjklq.com
 hjm-estrategialegal.com
@@ -92963,6 +92968,7 @@ impressionpapeterie.com
 impressions-dpa.com
 impressionz.co.uk
 impressivecontinuous.com
+impressivepail.com
 impressiveporchcooler.com
 ir.impressiverevenue.com
 impressivewhoop.com
@@ -103408,6 +103414,7 @@ kentaoz.xyz
 sailfish.kentcdodds.com
 kentcounty1812.org
 kentgarland.com
+kentiaabolish.com
 vinted-pl-gj32d.kentoazumi.xyz
 ads.kentonline.co.uk
 kentorjose.com
@@ -113631,6 +113638,7 @@ metric.magiceden.workers.dev
 exhibit.magicfashionevents.com
 join.magicfashionevents.com
 trk.magicfashionevents.com
+magicgirlsthere.com
 www.magichealthpoint.com
 magicianboundary.com
 magiciancleopatramagnetic.com
@@ -123122,6 +123130,7 @@ team.moxtra.com
 moyaskidka.ru
 moygorod-online.ru
 moymednogorsk.ru
+moyslovar.ru
 gtm.moyu-notebooks.com
 analytics.moz.com
 mozaikformaturas.com.br
@@ -125966,6 +125975,7 @@ ulhyys.naehwelt.de
 naemowse.com
 partneri.naenergie.cz
 marketing.naes.com
+naettarq.com
 naewynn.com
 images.medlem.naf.no
 marketing.naf.no
@@ -132249,6 +132259,7 @@ oddamzadarmo24.pl
 oddamzagrosze.pl
 banner.oddcast.com
 vhss-d.oddcast.com
+oddgate.com
 analytics.oddity.industries
 track.oddityexplorer.com
 events.oddo-bhf.com
@@ -137262,6 +137273,7 @@ gyvsi.palandsurveyor.com
 palapamedia.net.id
 palaroleg.guru
 palatedaylight.com
+palatialdates.com
 ts.palatinepaints.co.uk
 zolrqw.palatlaldate.com
 palayan.org
@@ -140212,6 +140224,7 @@ pheemtougnoxu.com
 pheepudo.net
 pheersie.com
 pheftoud.com
+phegnauxoudsez.xyz
 pheksousi.net
 go.phelpsusa.com
 pheniter.com
@@ -149460,7 +149473,7 @@ ls.collector.pub-tmaws.io
 pub.network
 pub2srv.com
 pubaka5.com
-monetize.pubcircle.ai
+pubcircle.ai
 pubdirecte.com
 pubdisturbance.com
 pubertybloatgrief.com
@@ -153071,6 +153084,7 @@ statistics.rbi-nl.com
 countly.merlin.rbi.cloud
 countly.merlin-test.rbi.cloud
 rbift.icu
+rbighouse.ru
 rbimu.org
 rbioclv.cn
 mailer.rbis-averydennison.com
@@ -157696,7 +157710,7 @@ al.route-2.net
 a8.route-roller.info
 tr.route-solutiondata.fr
 route31.org
-t1p-adtech.aws.route71.net
+orchestrator-adtech-prod.t1p-adtech.aws.route71.net
 routehero.com
 routeit.one
 routeme.one
@@ -177470,7 +177484,6 @@ telegram-zer.com
 telegrambotsolution.pages.dev
 telegramcoin.us
 telegramconform.com
-telegramfk.com
 telegramgw.cc
 telegramhcn.com
 telegrami.tw
@@ -181443,6 +181456,7 @@ ad.thsi.cn
 luisddargo.thsite.top
 data.crm-edm.thsrc.com.tw
 unsub.crm-edm.thsrc.com.tw
+thstvv.com
 thubanoa.com
 thudonanselsaps.net
 thudsurdardu.net
@@ -183047,6 +183061,7 @@ tomatoesstripemeaningless.com
 tomatoitch.com
 tomatoqqamber.click
 tomawilea.com
+tombedismal.com
 tombmeaning.com
 tomck.com
 smetrics.tomecontroldesusalud.com
@@ -188005,6 +188020,7 @@ woodpecker.uc.cn
 u.uc123.com
 uca6.com
 ucanfly.ru
+ucapsidop.info
 ucarsoft.com
 ucationinin.info
 ucavu.live
@@ -188977,6 +188993,8 @@ go.unexplored-revelation.com
 adtrack.unext.jp
 in.unext.jp
 unfairgenelullaby.com
+unfamiiilardates.com
+unfamilliardates.com
 go.unfi.com
 unfiledbunkum.shop
 unfilteredd.org
@@ -196403,6 +196421,7 @@ www.wantsfly.com
 wantsomenews.com
 www.wantstraffic.com
 wantubad.com
+wantyoudate.net
 a.wanzhuang.com
 tracking.wao-corp.com
 tracking.wao.ne.jp
@@ -203470,6 +203489,7 @@ xxsmad1.com
 xxsmad2.com
 xxsmad3.com
 xxsmad4.com
+xxsmad5.com
 xxss6677.com
 xxuz.com
 xxx-babes.org

@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: iNjzjvggL/FaHLj1OllraA
-! Version: 202501291601
+! Checksum: PySur6sBSTtWJ9ZpLdLokA
+! Version: 202501300021
 ! Title: EasyPrivacy
-! Last modified: 29 Jan 2025 16:01 UTC
+! Last modified: 30 Jan 2025 00:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4948,6 +4948,7 @@ omni.soundestlink.com$image
 ||n74s9.com^$third-party
 ||naayna.com^$third-party
 ||naj.sk^$third-party
+||nakedanalytics.net^$third-party
 ||natero.com^$third-party
 ||native.ai^$third-party
 ||natpal.com^$third-party

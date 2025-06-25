@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250625161407
-! Last modified: 2025/06/25 16:14:07
-! Blocked domains: 6252
+! Version: 20250626001158
+! Last modified: 2025/06/26 00:11:58
+! Blocked domains: 6243
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -53,7 +53,6 @@ soft.110route.com
 oss-asq-static.11222.cn
 1.11467.com
 appversion.115.com
-118ex.cn
 bj1.118pan.com
 11h5.com
 eclick.120ask.com
@@ -1142,8 +1141,6 @@ miniapp.bilibili.com
 line1-log.biligame.net
 httpdns.bilivideo.com
 mcdn.bilivideo.com
-bing.college
-bing.fashion
 bingdianhuanyuan.cn
 ai.bioon.com
 biqubao.com
@@ -1643,7 +1640,6 @@ dksgo7.top
 dktad.com
 dlads.cn
 dle-news.xyz
-dltranslation.com
 dmnxkj.cn
 dmrtb.com
 xs.dmzj.com
@@ -1961,7 +1957,6 @@ dms.fx678.com
 a.fxltsbl.com
 fy14.cn
 fy60.icu
-fygd168.com
 xyoss.g.com.cn
 r01.g1c5.com
 g41i.icu
@@ -3417,7 +3412,6 @@ reksaidnslog.security.mihoyo.com
 sentry-inc.ssr.mihoyo.com
 gg.miinaa.com
 trk.miltonroy.com.cn
-mingzhandaohang.com
 src1.minibai.com
 wm.mipcdn.com
 track.mituo.cn
@@ -5579,7 +5573,6 @@ x-f.fun
 x-steam.com
 x0or8.icu
 xa7j.icu
-xavua.com
 docom-support.xbbtdi.cn
 xbtw.com
 d0.xcar.com.cn
@@ -5733,7 +5726,6 @@ sentry.xinchenai.com
 xindalawyer.com
 sentry.xindong.com
 marketing.xineurope.com
-xinfax.com
 c.xingjuhe.com
 ichc1.xinglinpukang.com
 www.xingpingmaoyi.cn
@@ -5907,7 +5899,6 @@ ymapp.com
 ymcdn.cn
 ymdxl.com
 ymima360.com
-ymjnd.com
 dpd-setup.ymlzn.com
 ymmobi.com
 www.ynbojie.com

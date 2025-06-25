@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250625161407
-# Last modified: 2025/06/25 16:14:07
-# Blocked domains: 6252
+# Version: 20250626001158
+# Last modified: 2025/06/26 00:11:58
+# Blocked domains: 6243
 #
 local=/kwcdn.000dn.com/
 local=/kwcscdn.000dn.com/
@@ -53,7 +53,6 @@ local=/1.11130.com.cn/
 local=/oss-asq-static.11222.cn/
 local=/1.11467.com/
 local=/appversion.115.com/
-local=/118ex.cn/
 local=/bj1.118pan.com/
 local=/11h5.com/
 local=/eclick.120ask.com/
@@ -1142,8 +1141,6 @@ local=/miniapp.bilibili.com/
 local=/line1-log.biligame.net/
 local=/httpdns.bilivideo.com/
 local=/mcdn.bilivideo.com/
-local=/bing.college/
-local=/bing.fashion/
 local=/bingdianhuanyuan.cn/
 local=/ai.bioon.com/
 local=/biqubao.com/
@@ -1643,7 +1640,6 @@ local=/dksgo7.top/
 local=/dktad.com/
 local=/dlads.cn/
 local=/dle-news.xyz/
-local=/dltranslation.com/
 local=/dmnxkj.cn/
 local=/dmrtb.com/
 local=/xs.dmzj.com/
@@ -1961,7 +1957,6 @@ local=/dms.fx678.com/
 local=/a.fxltsbl.com/
 local=/fy14.cn/
 local=/fy60.icu/
-local=/fygd168.com/
 local=/xyoss.g.com.cn/
 local=/r01.g1c5.com/
 local=/g41i.icu/
@@ -3417,7 +3412,6 @@ local=/reksaidnslog.security.mihoyo.com/
 local=/sentry-inc.ssr.mihoyo.com/
 local=/gg.miinaa.com/
 local=/trk.miltonroy.com.cn/
-local=/mingzhandaohang.com/
 local=/src1.minibai.com/
 local=/wm.mipcdn.com/
 local=/track.mituo.cn/
@@ -5579,7 +5573,6 @@ local=/x-f.fun/
 local=/x-steam.com/
 local=/x0or8.icu/
 local=/xa7j.icu/
-local=/xavua.com/
 local=/docom-support.xbbtdi.cn/
 local=/xbtw.com/
 local=/d0.xcar.com.cn/
@@ -5733,7 +5726,6 @@ local=/sentry.xinchenai.com/
 local=/xindalawyer.com/
 local=/sentry.xindong.com/
 local=/marketing.xineurope.com/
-local=/xinfax.com/
 local=/c.xingjuhe.com/
 local=/ichc1.xinglinpukang.com/
 local=/www.xingpingmaoyi.cn/
@@ -5907,7 +5899,6 @@ local=/ymapp.com/
 local=/ymcdn.cn/
 local=/ymdxl.com/
 local=/ymima360.com/
-local=/ymjnd.com/
 local=/dpd-setup.ymlzn.com/
 local=/ymmobi.com/
 local=/www.ynbojie.com/

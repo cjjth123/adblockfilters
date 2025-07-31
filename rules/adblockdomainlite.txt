@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250731161514
-! Last modified: 2025/07/31 16:15:14
-! Blocked domains: 6183
+! Version: 20250801001258
+! Last modified: 2025/08/01 00:12:58
+! Blocked domains: 6178
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -3210,7 +3210,6 @@ webanalytics.logitechg.com.cn
 webtarget.logitechg.com.cn
 logoshejishi.com
 loispp.com
-lolblog.cn
 lomark.cn
 looyu.com
 lostheaven.com.cn
@@ -4272,7 +4271,6 @@ stats.cn.ronghub.com
 static.rongkao.com
 rpahyhn.cn
 rpkcqtf.cn
-rsdpg.cn
 ip.rss.ink
 rsvqlz.cn
 rtbasia.com
@@ -4576,7 +4574,6 @@ click.hd.sohu.com.cn
 pb.hd.sohu.com.cn
 643108e7617ef.cdn.sohucs.com
 e8aeb8bbdbbd7.cdn.sohucs.com
-sojoin.net
 rtb-uswest-ak.solomath.com
 gg.sonhoo.com
 sc.sonystyle.com.cn
@@ -5824,7 +5821,6 @@ yje912.cn
 mountain.zhidao.baidu.com.cname3466.yjs-cdn.com
 qpb1.sohu.com.cname209.yjs-cdn.com
 ykcjxvg.cn
-ykd-delivery.com
 g3.ykimg.com
 l.ykimg.com
 ykkbwdf.cn
@@ -5923,7 +5919,6 @@ wenxue.youzhicn.com
 youzu.com
 yoyi.tv
 analysis.yozocloud.cn
-yq-live.com
 yqtpm.cn
 ys630.com
 ad-material.ys7.com
